@@ -5,10 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_phoenix.mk
+    $(LOCAL_DIR)/colt_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_phoenix-user \
-    derp_phoenix-userdebug \
-    derp_phoenix-eng
+    colt_phoenix-user \
+    colt_phoenix-userdebug \
+    colt_phoenix-eng
 
