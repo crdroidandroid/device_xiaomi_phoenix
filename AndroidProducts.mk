@@ -5,10 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/colt_phoenix.mk
+    $(LOCAL_DIR)/lineage_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    colt_phoenix-user \
-    colt_phoenix-userdebug \
-    colt_phoenix-eng
+    lineage_phoenix-user \
+    lineage_phoenix-userdebug \
+    lineage_phoenix-eng
 
